@@ -1,0 +1,22 @@
+.std_edit_btn{
+    background: blue ; 
+    color: white;
+     padding: 5px;
+     border-radius: 21%;
+}
+.std_edit_btn:hover{ 
+    color: white;
+}
+
+.std_dlt_btn{
+    background: #e91e63; 
+    color: white;
+     padding: 6px 7px;
+     border-radius: 21%;
+}
+
+.std_dlt_btn:hover{
+     
+    color: white;
+    
+}
